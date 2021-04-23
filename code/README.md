@@ -4,8 +4,6 @@
 * python train.py
 
 ### inference
-* python inference.py --model_dir=[model_path]
-* ex) python inference.py --model_dir=./results/checkpoint-500
+* python inference.py
 
-### evaluation
-* python eval_acc.py
+training 및 inference에 args 존재.   
